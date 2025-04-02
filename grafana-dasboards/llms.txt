@@ -1,0 +1,37 @@
+# Dashboards | Grafana documentation
+
+## Overview of Grafana Dashboards
+Grafana provides a powerful platform for creating and managing dashboards that visualize data from various sources. This documentation covers the essential aspects of dashboard creation, management, and best practices.
+
+## Dashboard Management
+- [Build dashboards](https://grafana.com/docs/grafana/latest/build-dashboards/): Get step-by-step directions for how to create or import your first dashboard and modify dashboard settings. Learn about reusable library panels, dashboard links, annotations, and dashboard JSON.
+- [Manage dashboards](https://grafana.com/docs/grafana/latest/manage-dashboards/): Learn about dashboard and folder management, as well as generative AI features for dashboards.
+- [Manage version history](https://grafana.com/docs/grafana/latest/dashboards/build-dashboards/manage-version-history/): Understand how to track and manage changes made to your dashboards over time.
+- [Manage playlists](https://grafana.com/docs/grafana/latest/dashboards/create-manage-playlists/): Create and manage playlists of dashboards for presentations or monitoring purposes.
+
+## Dashboard Features
+- [Variables](https://grafana.com/docs/grafana/latest/variables/): Add variables to metric queries and panel titles to create interactive and dynamic dashboards.
+- [Reporting](https://grafana.com/docs/grafana/latest/create-reports/): Automatically generate and share PDF reports from your Grafana dashboards.
+- [Sharing](https://grafana.com/docs/grafana/latest/share-dashboards-panels/): Share Grafana dashboards and panels using links, snapshots, embeds, and exports.
+- [Shared dashboards](https://grafana.com/docs/grafana/latest/share-dashboards-panels/shared-dashboards/): Share your dashboards with anyone without requiring access to your Grafana organization.
+
+## Dashboard Customization
+- [Modify dashboard settings](https://grafana.com/docs/grafana/latest/dashboards/build-dashboards/modify-dashboard-settings/): Learn how to adjust settings for your dashboards to fit your needs.
+- [Manage dashboard links](https://grafana.com/docs/grafana/latest/dashboards/build-dashboards/manage-dashboard-links/): Create and manage links between different dashboards for easier navigation.
+- [Annotate visualizations](https://grafana.com/docs/grafana/latest/dashboards/build-dashboards/annotate-visualizations/): Add annotations to your visualizations to provide context or highlight important events.
+
+## Dashboard Usage and Troubleshooting
+- [Assess dashboard usage](https://grafana.com/docs/grafana/latest/dashboards/assess-dashboard-usage/): Analyze how dashboards are being used to improve performance and user experience.
+- [Troubleshoot dashboards](https://grafana.com/docs/grafana/latest/dashboards/troubleshoot-dashboards/): Find solutions to common issues encountered while using Grafana dashboards.
+
+## Visualizations
+- [Panels and visualizations](https://grafana.com/docs/grafana/latest/panels-visualizations/): Explore the different types of visualizations available in Grafana, including time series, bar charts, and heatmaps.
+- [Visualizations](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/): Detailed descriptions of various visualization types and their configurations.
+- [Time series](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/time-series/): Understand how to work with time series data in Grafana.
+
+## Advanced Dashboard Features
+- [Dashboard URL variables](https://grafana.com/docs/grafana/latest/dashboards/build-dashboards/create-dashboard-url-variables/): Use URL variables to create dynamic dashboards that respond to user input.
+- [JSON model](https://grafana.com/docs/grafana/latest/dashboards/build-dashboards/view-dashboard-json-model/): Learn about the JSON model used to define dashboards in Grafana.
+
+## Conclusion
+Grafana dashboards are a versatile tool for data visualization, allowing users to create, manage, and share insights effectively. This documentation serves as a comprehensive guide to harnessing the full potential of Grafana dashboards.
